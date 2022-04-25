@@ -156,3 +156,4 @@ if __name__ == '__main__':
     human = HumanPlayer()
     game = Game(human, behavior)
     game.play_game()
+
